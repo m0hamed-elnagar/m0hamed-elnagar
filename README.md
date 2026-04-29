@@ -10,8 +10,9 @@ with Clean Architecture, scalability, and long-term maintainability.
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://m0hamed-elnagar.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-elnagar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-elnagar-b62802231)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.3lnagar@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201017713257)
 
 </div>
 
@@ -108,7 +109,7 @@ Have a project in mind or just want to connect?
 
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://m0hamed-elnagar.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Send_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.3lnagar@gmail.com)
-
+[![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201017713257)
 </div>
 
 ---
