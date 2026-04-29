@@ -19,84 +19,84 @@ with Clean Architecture, scalability, and long-term maintainability.
 
 ## 👨‍💻 About Me
 
-My core is **Android-first** — I design multi-module, fully-layered apps using Kotlin and Jetpack Compose, with a strong emphasis on reactive UI patterns and thorough test coverage across unit, integration, and UI layers.
+My core is **Android-first** — I design multi-module, fully-layered apps with a heavy emphasis on engineering discipline. I don't just build apps; I architect solutions that solve complex business logic while maintaining high performance and testability.
 
-When a project demands cross-platform, I reach for **KMP/CMP** to share business logic and UI across platforms, or **Flutter** for a fully cross-platform solution.
+My engineering philosophy centers on **Clean Architecture** and **Domain-Driven Design (DDD)**. I specialize in building decoupled systems that are easy to scale, maintain, and test across all layers.
 
-I actively integrate **AI tools** into my development workflow to sharpen decision-making, boost productivity, and improve code quality.
+While my heart is in Native Android, I leverage **Cross-Platform** technologies as strategic tools for high-fidelity delivery when product requirements demand rapid scalability without compromising architectural standards.
 
 ---
 
-## 🛠️ Tech Stack
+## 🏛️ Engineering Pillars
 
-**Android**
+*   **Pattern-Driven UI:** Mastery of **MVI (Model-View-Intent)** and **MVVM** for predictable state management and Unidirectional Data Flow (UDF).
+*   **Decoupled Logic:** Expert application of **Dependency Injection (DI)** principles to ensure modularity and ease of testing.
+*   **Data Integrity:** Focused on **Single Source of Truth (SSoT)** and **Offline-First** synchronization strategies.
+*   **Scalability:** Specialized in **Multi-Module Architectures** and **Product Flavors** for enterprise-scale project management.
 
+---
+
+## 🛠️ Developer Toolkit
+
+**Core Foundations & Logic**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-000000?style=flat-square&logoColor=white)
+![Coroutines & Flow](https://img.shields.io/badge/Asynchronous_Logic-000000?style=flat-square&logo=kotlin&logoColor=white)
+![Reactive Programming](https://img.shields.io/badge/Reactive_UI-000000?style=flat-square&logoColor=white)
+
+**UI & Presentation**
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Room](https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=google&logoColor=white)
+![Material Design 3](https://img.shields.io/badge/Material_3-4285F4?style=flat-square&logo=google&logoColor=white)
+![RTL Support](https://img.shields.io/badge/RTL_Ready-000000?style=flat-square&logoColor=white)
+![View Systems](https://img.shields.io/badge/XML_/_ViewBinding-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Architecture & Patterns**
+**Persistence & Integration**
+![Local Persistence](https://img.shields.io/badge/Local_Storage_/_Room-4285F4?style=flat-square&logo=google&logoColor=white)
+![Networking / API](https://img.shields.io/badge/REST_/_Ktor_/_Retrofit-000000?style=flat-square&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Services-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=flat-square&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-512BD4?style=flat-square&logoColor=white)
-![MVI](https://img.shields.io/badge/MVI-512BD4?style=flat-square&logoColor=white)
-![Multi-Module](https://img.shields.io/badge/Multi--Module-7F52FF?style=flat-square&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-000000?style=flat-square&logoColor=white)
-
-**Cross-Platform**
-
-![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![CMP](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Tools & Others**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**Cross-Platform (Strategic Additions)**
+![KMP/CMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter_/_Dart-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📰 Taaza-Today — Bilingual News & Short-Video Platform
-> Android · Kotlin · Jetpack Compose · Clean Architecture · Paging 3 · Firebase
+> Android · Kotlin · Jetpack Compose · Multi-Module · Paging · Firebase
 
-A production-ready bilingual (Hindi & English) news app with real-time feed, short-form video playback, and topic-based push notifications. Multi-module, multi-flavor structure with ~90% shared code between admin and user variants.
+A production-ready bilingual news aggregator with real-time feeds and short-form video integration. Built using a multi-module, multi-flavor structure for optimal code reuse and performance.
 
-- ⚡ `<200ms` cold-start on Paging 3 feed
-- 🎯 60 FPS scrolling on 1GB RAM devices
-- 🧪 80%+ test coverage on critical modules
-
----
-
-### 🕌 Fard (فرض) — Islamic Qada Tracker
-> Flutter · Dart · BLoC · Clean Architecture · DDD · Kotlin (Native Widgets)
-
-A high-performance Flutter app for tracking missed prayers, featuring a full Quran reader with multiple script modes, offline audio recitation, and native Android home screen widgets built in Kotlin.
-
-- 🌍 Global prayer time accuracy with full DST & multi-timezone support
-- 🎨 Dynamic Material 3 theming engine with custom seed-color palette generation
-- 💾 Full data backup & restore via JSON export/import
+- ⚡ **Performance:** Optimized for `<200ms` cold-starts and 60 FPS scrolling.
+- 🎯 **Scale:** Achieved ~90% shared code between admin and user product variants.
+- 🧪 **Quality:** ~80% test coverage on critical domain and data modules.
 
 ---
 
-### 📋 Employee Attendance Management System
-> Kotlin · MVVM · Room · Apache POI
+### 🕌 Fard (فرض) — Islamic Productivity Suite
+> Flutter · BLoC · DDD · Clean Architecture · Native Android Integration
 
-An attendance tracking app with Excel integration for importing/exporting records, configurable weekends/holidays, and detailed reporting — built with a strong focus on edge-case test coverage.
+A high-performance spiritual companion featuring complex global time automation and native Android integration for home screen widgets.
+
+- 🎨 **Engineering:** Dynamic Material 3 engine with procedural palette generation.
+- 🌍 **Accuracy:** Custom synchronization engine for multi-timezone and DST transitions.
+- 💾 **Portability:** Robust JSON-based data migration and backup system.
 
 ---
 
-## 💼 Experience
+### 📋 Enterprise Data Solutions
+> Kotlin · Persistence Design · Data Portability
+
+Developed specialized systems for attendance management and clinic workflows, focusing on complex business logic, validation engines, and deep third-party data integration (Excel/POI).
+
+---
+
+## 💼 Professional Experience
 
 **Android Developer** @ [2is Company](https://2is.com) *(Remote · 2024 – 2025)*
 
-Delivered 3 production Android apps across medical and business domains — patient management, clinic workflows, and seller/billing systems — maintaining a **98%+ crash-free rate** via Crashlytics. Applied multi-module architecture and product flavors across all projects.
+Architected and delivered 3 production-grade applications using a shared multi-module foundation. Maintained a **98%+ crash-free rate** through proactive monitoring and performance tuning. Led the transition to modern UI patterns while optimizing legacy data synchronization engines.
 
 ---
 
